@@ -1,6 +1,6 @@
 {
   "name": "email-signature-generator",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "description": "email signature generator",
   "main": "index.html",
   "engines" : { "node" : "^10", "npm": "^6" },
