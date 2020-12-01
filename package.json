@@ -3,7 +3,7 @@
   "version": "2.0.0",
   "description": "email signature generator",
   "main": "index.html",
-  "engines" : { "node" : "10.17.0" },
+  "engines" : { "node" : "^10", "npm": "^6" },
   "scripts": {
     "test": "",
     "build": "./node_modules/.bin/gulp"
